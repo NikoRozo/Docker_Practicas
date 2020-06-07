@@ -1,7 +1,7 @@
-# Curso de Docker en Platzi
+# Practicas en Docker
 
-Ésta es una aplicación de ejemplo para el curso de Docker de Platzi por Guido
-Vilariño.
+Este es una serie de practicas realizadas en Docker, Swarm y Kubernate
 
-Encuentra más información en https://platzi.com, suscríbete al curso y aprende
-a usar Docker de manera profesional.
+# Workpress con Docker Compose
+
+Ejecutar con el comando <docker-compose up>
